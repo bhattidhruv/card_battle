@@ -1,0 +1,6 @@
+﻿  source.cpp
+C:\Users\dhruv\OneDrive - Syracuse University\Desktop\Study\DGB_Code\code_workSpace\github\New folder\card_battle\card_battle\source.cpp(28,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dhruv\OneDrive - Syracuse University\Desktop\Study\DGB_Code\code_workSpace\github\New folder\card_battle\card_battle\source.cpp(46,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dhruv\OneDrive - Syracuse University\Desktop\Study\DGB_Code\code_workSpace\github\New folder\card_battle\card_battle\source.cpp(78,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dhruv\OneDrive - Syracuse University\Desktop\Study\DGB_Code\code_workSpace\github\New folder\card_battle\card_battle\source.cpp(152,21): warning C4018: '<': signed/unsigned mismatch
+  card_battle.vcxproj -> C:\Users\dhruv\OneDrive - Syracuse University\Desktop\Study\DGB_Code\code_workSpace\github\New folder\card_battle\Debug\card_battle.exe
